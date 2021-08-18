@@ -1,17 +1,17 @@
-# Pre-work - *Tip Calculator*
+# Pre-work - Tip Calculator
 
-**Tip Calulator** is a tip calculator application for iOS.
+Tip Calulator is a tip calculator application for iOS.
 
 Submitted by: Rick Thompson
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
