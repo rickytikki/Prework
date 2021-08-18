@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Making the tips fully visable caused some issues due to size of the label, but was easily fix. 
 
 ## License
 
